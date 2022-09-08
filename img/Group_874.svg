@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 94 66" width="94" height="66">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-146,88h464v-110h-464z" />
+		</clipPath>
+		<image width="94" height="66" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAABCCAMAAADpGJG8AAAAAXNSR0IB2cksfwAAAIRQTFRFAAAAAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrEMmDHQAAACx0Uk5TAP8egBk9Mj9/M8DPv9/MKkQ5yMsjPDEuYHuZpEBSnp+YTCApbW9lJlpjEQ6VPnSvAAABC0lEQVR4nO2W2Q6CMBBFQVQQcN8VxX39//+TuTSgTVU0aaDJnKdLO3MemCHBsnLsDEsHmvVmY/a7Zz3rWW+6vuYUov6nvmEXosl6Q/UuRQ/Rk6LL+irrW35Grk+fA+QgTGgjtqWYFnT8t3Stnq2RPuu/6wehAjFampGYpxTFaFW9wxf9SLVUY1x9XcyJqnfK+irpZ5g5buf55hRjgTaf2mZv9A4i6pY/mJ/0iA7rf9dH+KdD3cpLWOMqpsMQMZRijLih2i3aIIjKWUzWl6c3e+9Z/0G/iwjU7d2EA66OdJh+/rEUj4gnqj2jDYJdOYvJerX+4ioQo6Uo5inFp9HKXF/0mmB9mfpbpJH7A1J+NcNC2owaAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Clip-Path: icons-set" clip-path="url(#cp1)">
+		<g id="icons-set">
+			<use id="Group_874" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

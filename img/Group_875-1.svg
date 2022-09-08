@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 39" width="76" height="39">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-261,60h464v-110h-464z" />
+		</clipPath>
+		<image width="76" height="39" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAnCAMAAACSel6AAAAAAXNSR0IB2cksfwAAAd1QTFRFAAAAAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInrAInr1CNdVAAAAJ90Uk5TAARarN/3zJA0P9r/sBtg7TNR/eYYAuWtFqpf1YTpkQVo3dhYz3s7wep9EB3UrwiYSIn+NgbQswFM54fsGm5UVySh0bss9qOM+grjRfGDti0hqb0pxcMcgHphQpT0A2cvyMSXERm16CcHx/DkYk7WgSh2pL/C9cB/MR546/u8az2cyW9wpuBGZPkLVTz8ZQ2aE8tzbe8VfmYU8jDZnjdPuvaRGAAAAjdJREFUeJztlGdbE0EUhZMAFkZUxKARkQ6hKwQWDYhUQ7ECoqGKLQiCgoBURUB6UVFB1N/qOpOdOzs7MCv78I3z7Z5z7ptsdiY2m1R2R0ho2JGjx+RNuY6HI6ITEZZZJxHVqdMWWZFnAIaizlpiOaMRq3OWYA6k13krMBcHu2AFFsPBLlqBxXKwS6Y34+ITEEpMYq1kDpbCZKlpCLnTM8SszCyykJ0DXi4HuwzRlTzsuPNFLE+BtlGoULNIz7rqock1zfMWC2AlsHOdmor+DZTS4AYc5jIBrBx2KsCtrGJY1eDfBNdXY4T5IK5l7Lp6at9i7NvMZ9wxwsIg9bL+3XvEzEpl3fsMrMEIa4S0SZ88KGl++Mjv1Hkt0G5tM8LaITZxaTqgnSuIlU4tfawIYl5dWtstPLZPgse94KkJli3nGWk/fyHOA/HdL3tCeu1mWKpelfVVJffvcp0OXq/fDAy+jUJDncOukdJ3HvnCbhodSxtHOk1MToluolTK+w8TSKC86Y8B6bInf2Z2Ti23k/FTn4hE1DNPDrB/AaHxwjH/op5kX3IFb1Mvnhf5/35O5eRPbJksrUyurlGUc7VWa61jY+Pz3ix1/wsuftXmzf7g1/s2TDub2GpLlLFUOfBuN53D8XXfSIDGd9z4YYKFWrf+VSPB2K5U51mm8RPDpA+JNYMfYgWMHXX2MgXy0rdNwbpwl3ksVGwLMNMC+RF9/J5Qv3B3mnF+H8L2ARPof2BSpTeb0R/j4l9yL5JyDpMiVgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Clip-Path: icons-set" clip-path="url(#cp1)">
+		<g id="icons-set">
+			<use id="Group_875" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
